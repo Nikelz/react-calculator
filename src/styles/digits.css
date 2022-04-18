@@ -1,0 +1,11 @@
+.digits {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 10px;
+    background: rgb(255, 255, 255);
+    border-width: 0 5px 5px 5px;
+    border-color: #000000;
+    border-style: solid;
+    border-radius: 0 0 16px 16px;
+}

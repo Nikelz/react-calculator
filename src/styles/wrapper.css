@@ -1,0 +1,10 @@
+.wrapper {
+    max-width: 500px;
+    width: 100%;
+    color: azure;
+
+    border-radius: 16px;
+    margin: 25px auto;
+
+    overflow: hidden;
+}

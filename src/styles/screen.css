@@ -1,0 +1,14 @@
+.display {
+    width: 100%;
+    text-align: right;
+    background: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px 22px;
+    border-radius: 16px 16px 0 0;
+    color: rgb(255, 255, 255);
+}
+.display span {
+    font-size: 16px;
+    padding-right: 15px;
+}
