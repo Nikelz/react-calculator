@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import './styles/App.css'
-// import Calculator from "./components/calculator";
+
 import Wrapper from "./components/wrapper";
 import Display from "./components/screen";
 import Digits from "./components/digits";
 import Buttons from "./components/buttons";
-// import Operators from "./components/operators";
 
 const btnValues = [
 	["+-", "%", "C", "/"],
